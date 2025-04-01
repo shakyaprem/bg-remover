@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="224" height="42" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m18.73,0l25.47,0l-18.73,27.76l-25.47,0l18.73,-27.76z" fill="#ff7f00" id="svg_2"/>
+  <path d="m19.84,30.33l-7.25,10.75l26.68,0l18.73,-27.76l-19.69,0l-11.48,17.01l-6.99,0z" fill="#7f00ff" id="svg_3"/>
+  <text fill="#666666" font-family="Serif" font-size="24" id="svg_5" stroke-width="0" text-anchor="middle" transform="matrix(1.03258 -0.00729856 0.0057475 0.838076 46.5272 27.648)" x="89.2" xml:space="preserve" y="12.49">BG.REMOVER</text>
+ </g>
+</svg>
